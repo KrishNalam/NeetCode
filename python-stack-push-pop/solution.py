@@ -2,7 +2,7 @@ from typing import List
 
 
 def reverse_list(arr: List[int]) -> List[int]:
-    return arr[::-1]
+    return arr[:2:]
 
 
 # do not modify below this line
